@@ -9,3 +9,8 @@ A. For python itself, a proper beginner course is necessary.<br>
      &emsp; 3. [**Python for Everyone**(freeCodeCamp)](https://www.freecodecamp.org/learn/scientific-computing-with-python/) Same course as above two, but with free certificate.<br>
      &emsp; 4. [**Python Documentation**](https://www.python.org/doc/): Documentations are highly recommended for all learning purposes. You can consult documentation for specific function at times if you are already familiar with python.<br>
      &ensp; **Blogs can be consulted and for specific questions [stackoverflow.com](https://stackoverflow.com/) can be consulted.**
+<br>Session 07-05-2022<br>
+<a href="https://github.com/kushagrathisside/ML-Recommended-Resources/blob/main/List%2BTuple.ipynb"> notebook</a><br>
+<a href="https://docs.python.org/3/tutorial/introduction.html#lists">documentation</a><br>
+<a href="https://leetcode.com/problems/length-of-last-word/"> leetcode q</a><br>
+<a href="https://www.tutorialspoint.com/built-in-list-functions-and-methods-in-python">tut point</a>
